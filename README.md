@@ -1,52 +1,66 @@
+<h1 align="center">Hi 👋, I'm Nezire Tosun</h1>
+<h3 align="center">Computer Engineer | Software & AI Developer | Data Science | Entrepreneurship & Sustainability</h3>
 
+---
+
+### 👩🏻‍💻 About Me
+- I’m currently working on **Artificial Intelligence, Machine Learning, NLP, Computer Vision, and IoT**  
+- I’m currently learning **Next.js, Reinforcement Learning, Generative AI, and MLOps (Docker, Kubernetes, Azure)**  
+- I’m looking to collaborate on **AI-driven projects, sustainability-focused innovations, and research-oriented initiatives**  
+- Ask me about **AI for Sustainability, Applied AI (NLP, CV, Smart Agriculture), AI Entrepreneurship, and Scalable AI Systems**  
+- 📫 How to reach me: **neziretosunn@gmail.com**
+
+---
+
+### 🌐 Social Media & Contact
 <p align="center">
- 
-</p>
-
-<h1 align="center">Merhaba 👋, ben Nezire Tosun</h1>
-<h3 align="center">AI Developer | Yapay Zeka ile Sürdürülebilir İnovasyon ve Girişimcilik Etkisi Yaratmak</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=neziretosun&label=Profile%20views&color=0e75b6&style=flat" alt="neziretosun" />
+  <a href="https://linkedin.com/in/neziretosun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="40" /></a>
+  <a href="https://instagram.com/neziretosun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="40" width="40" /></a>
+  <a href="mailto:neziretosunn@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="40" width="40" /></a>
+  <a href="https://medium.com/@neziretosun34" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium Articles" height="40" width="40" /></a>
+  <a href="https://github.com/NezireTosun" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Profile" height="40" width="40"/></a>
 </p>
 
 ---
 
-### 🔭 Hakkımda
-- Şu anda **MindMatch AI** üzerinde çalışıyorum  
-- Düzenli olarak [Medium](https://medium.com/@neziretosun34) adresinde makaleler yazıyorum  
-- Bana şunlar hakkında sorular sorabilirsiniz: **AI for Sustainability | AI Entrepreneurship | Applied AI (NLP, CV, Smart Agriculture) | MLOps & Scalability | Tech + Impact**  
-- 📫 İletişim: **neziretosunn@gmail.com**
-
----
-
-### 🤝 Benimle İletişime Geçin
-<p align="left">
-  <a href="https://linkedin.com/in/neziretosun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://kaggle.com/neziretosun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
-  <a href="https://instagram.com/neziretosun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://medium.com/@neziretosun34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
-</p>
-
----
-
-### 🛠️ Diller ve Araçlar
+### 🛠️ Languages and Tools
 <p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
+  <!-- Programming -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+
+  <!-- AI & Data Science -->
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+
+  <!-- Web & App Development -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+
+  <!-- Databases & Platforms -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+
+  <!-- Tools -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+
+  <!-- Data Analysis & BI -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354001/sqlite.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/sap.png" alt="SAP BW" width="40" height="40"/>
 </p>
-
----
-
-### 📊 GitHub İstatistikleri
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neziretosun&show_icons=true&locale=tr&layout=compact" alt="neziretosun" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=neziretosun&show_icons=true&locale=tr" alt="neziretosun" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neziretosun" alt="neziretosun" /></p>
