@@ -1,6 +1,6 @@
-<!-- Profil Banner (İstersen linki kendi banner görselinle değiştir) -->
+
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Profile Banner" width="100%" />
+ 
 </p>
 
 <h1 align="center">Merhaba 👋, ben Nezire Tosun</h1>
