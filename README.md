@@ -89,3 +89,5 @@ I’m open to collaborations on **AI-powered product development, research proje
   <img src="https://img.icons8.com/color/48/sap.png" alt="SAP BW" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/uml.svg" alt="UML" width="40" height="40"/>
 </div>
+
+![snake gif](https://github.com/neziretosun/neziretosun/blob/output/github-contribution-grid-snake.gif)
