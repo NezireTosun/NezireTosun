@@ -90,4 +90,17 @@ I’m open to collaborations on **AI-powered product development, research proje
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/uml.svg" alt="UML" width="40" height="40"/>
 </div>
 
-![snake gif](https://github.com/neziretosun/neziretosun/blob/output/github-contribution-grid-snake.gif)
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <!-- Genel istatistikler -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NezireTosun&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <!-- Commit streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NezireTosun&theme=radical" alt="GitHub Streak" />
+
+  <!-- En çok kullanılan diller -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NezireTosun&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
