@@ -104,4 +104,4 @@ I’m open to collaborations on **AI-powered product development, research proje
   <!-- En çok kullanılan diller -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NezireTosun&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
-<p align="center"><em><!--LAST-UPDATE-START-->Last update: 2026-02-04 06:50 UTC<!--LAST-UPDATE-END--></em></p>
+<p align="center"><em><!--LAST-UPDATE-START-->Last update: 2026-02-04 09:30 UTC<!--LAST-UPDATE-END--></em></p>
