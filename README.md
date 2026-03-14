@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nezire Tosun</h1>
-<h3 align="center">Computer Engineer | Software & AI Developer | Data Science | Entrepreneurship & Sustainability</h3>
+<h3 align="center">Software Engineer @ SUNS Tech |  Computer Engineer  | Applied AI & Data Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NezireTosun&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
